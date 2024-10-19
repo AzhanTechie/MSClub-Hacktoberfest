@@ -22,5 +22,5 @@ def fizzbuzz(n):
 
 # Main function to execute the program
 if __name__ == "__main__":
-    fizzbuzz(20)
+    fizzbuzz(20) 
 
